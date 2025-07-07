@@ -1,0 +1,5 @@
+print("welcome to the world of programming")
+print(4)
+print("welcome to pyhon /n this is my first class")
+print("my favourit number is",7)
+print("welcome to ",end= "#@@")
